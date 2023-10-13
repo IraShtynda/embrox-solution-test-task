@@ -1,0 +1,11 @@
+{
+  "files": {
+    "main.js": "/embrox-solution-test-task/static/js/main.0f7e1571.js",
+    "static/media/no-img.png": "/embrox-solution-test-task/static/media/no-img.41a9664d5c0c0f228062.png",
+    "index.html": "/embrox-solution-test-task/index.html",
+    "main.0f7e1571.js.map": "/embrox-solution-test-task/static/js/main.0f7e1571.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.0f7e1571.js"
+  ]
+}
